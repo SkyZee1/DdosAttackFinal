@@ -6,7 +6,7 @@ import os
 import sys
 
 os.system("clear")
-print(" ToolDdosByXalbador ")
+print(" ToolDdosByudin ")
 print("  ██╗░░██╗██╗░░░░░██████╗░██████╗░ ")
 print("  ╚██╗██╔╝██║░░░░░██╔══██╗██╔══██╗ ")
 print("  ░╚███╔╝░██║░░░░░██████╦╝██║░░██║ ")
